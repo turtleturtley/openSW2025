@@ -1,5 +1,5 @@
-#ifndef FUNC1_H
-#define FUNC1_H
+#ifndef FUNC2_H
+#define FUNC2_H
 
 #include<stdio.h>
 
