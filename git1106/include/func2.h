@@ -3,6 +3,6 @@
 
 #include<stdio.h>
 
-void foo(void);
+void goo(void);
 
 #endif
