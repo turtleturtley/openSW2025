@@ -1,0 +1,5 @@
+LS(1)                       General Commands Manual                      LS(1)
+
+NNAAMMEE
+     llss – list directory contents
+
