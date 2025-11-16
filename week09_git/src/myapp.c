@@ -10,6 +10,8 @@ double calculate(char op, double a, double b)
     if (op == '-') return mysub(a, b);
     if (op == '*') return mymul(a, b);
     if (op == '/') return mydiv(a, b);
+    if (op == '%') return mymod(a, b);   
+    if (op == '^') return mypow(a, b);
 
     printf("Unsupported operator: %c\n", op);
     return 0.0;
