@@ -1,0 +1,12 @@
+# Open Source Software Design - Assignment
+
+This repository contains assignments for the Open Source Software Design course.
+
+## Week 09 - Git Practice
+- Branching
+- Merging
+- Makefile
+- Shared library build
+
+## License
+This project is for academic purposes.
