@@ -10,3 +10,5 @@ This repository contains assignments for the Open Source Software Design course.
 
 ## License
 This project is for academic purposes.
+
+- week11_syscall_file: File I/O system calls practice
