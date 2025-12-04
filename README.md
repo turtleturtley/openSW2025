@@ -12,3 +12,4 @@ This repository contains assignments for the Open Source Software Design course.
 This project is for academic purposes.
 
 - week11_syscall_file: File I/O system calls practice
+- Week 12: System Call and Process Assignments (fork, exec, system)
